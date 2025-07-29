@@ -1,0 +1,24 @@
+# Ignore Python virtual environments
+.venv/
+venv/
+
+# Python bytecode and cache
+__pycache__/
+*.py[cod]
+
+# Build and packaging artifacts
+build/
+dist/
+*.egg-info/
+
+# Temporary or system files
+*.log
+*.DS_Store
+*.swp
+Thumbs.db
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# VSCode settings (optional)
+.vscode/
