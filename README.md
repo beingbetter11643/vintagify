@@ -42,7 +42,7 @@ translate_image("photo.jpg", "photo_vintage.jpg")
 
 ## 📝 License
 
-MIT License © 2025 Yusong Zhao
+MIT License © 2025 beingbetter11643
 
 
 
