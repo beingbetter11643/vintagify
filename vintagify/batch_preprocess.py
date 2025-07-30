@@ -2,7 +2,7 @@
 import os
 from pathlib import Path
 import torch
-from preprocess import preprocess
+from .preprocess import preprocess
 
 def batch_preprocess(input_dir, output_dir, image_size=512):
     """
