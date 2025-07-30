@@ -4,8 +4,8 @@ from torchvision.utils import save_image
 import matplotlib.pyplot as plt
 import torchvision.transforms as T
 import os
-from generator import ResnetGenerator
-from preprocess import preprocess #将测试的图像同样预处理完才能给模型
+from .generator import ResnetGenerator
+from .preprocess import preprocess #将测试的图像同样预处理完才能给模型
 from PIL import Image
 
 def inference_image(image_path,model_path,output_path,direction="A2B",image_size=512):
