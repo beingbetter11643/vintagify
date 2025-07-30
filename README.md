@@ -48,5 +48,5 @@ MIT License © 2025 beingbetter11643
 
 | Original Image | Translated Image |
 |----------------|------------------|
-| ![](assets/original.jpg) | ![](assets/vintage.jpg) |
+| ![](assets/new_1.jpg) | ![](assets/old_1.jpg) |
 
