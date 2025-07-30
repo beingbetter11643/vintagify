@@ -44,5 +44,9 @@ translate_image("photo.jpg", "photo_vintage.jpg")
 
 MIT License © 2025 beingbetter11643
 
+## 🎨 Vintage Style Comparison
 
+| Original Image | Translated Image |
+|----------------|------------------|
+| ![](assets/original.jpg) | ![](assets/vintage.jpg) |
 
