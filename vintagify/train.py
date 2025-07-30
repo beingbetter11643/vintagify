@@ -3,10 +3,10 @@ import torch
 from torch.utils.data import DataLoader
 from torch.nn import DataParallel
 import os
-from bind_dataset import UnpairedPTDataset
-from optimize_loss import optimize_loss
-from generator import ResnetGenerator
-from discriminator import Discriminator
+from .bind_dataset import UnpairedPTDataset
+from .optimize_loss import optimize_loss
+from .generator import ResnetGenerator
+from .discriminator import Discriminator
 
 def train(
         domain_A_path,
